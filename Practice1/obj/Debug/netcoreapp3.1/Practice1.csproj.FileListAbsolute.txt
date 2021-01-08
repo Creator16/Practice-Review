@@ -1,0 +1,13 @@
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\bin\Debug\netcoreapp3.1\Practice1.exe
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\bin\Debug\netcoreapp3.1\Practice1.deps.json
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\bin\Debug\netcoreapp3.1\Practice1.runtimeconfig.json
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\bin\Debug\netcoreapp3.1\Practice1.runtimeconfig.dev.json
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\bin\Debug\netcoreapp3.1\Practice1.dll
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\bin\Debug\netcoreapp3.1\Practice1.pdb
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.csprojAssemblyReference.cache
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.AssemblyInfoInputs.cache
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.AssemblyInfo.cs
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.dll
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.pdb
+C:\Users\UNITY INTERN EVUT03\Desktop\C# codes\Group Practice\Practice1\obj\Debug\netcoreapp3.1\Practice1.genruntimeconfig.cache
